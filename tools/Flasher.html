@@ -49,7 +49,11 @@
 <li class="toctree-l1"><a class="reference internal" href="API.html">API</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Arduino Web Flasher</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#id1">简介</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id2">使用</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#microsoft-edge">使用（以Microsoft Edge为例）</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id2">准备材料</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id3">操作</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -109,8 +113,27 @@
 </tr>
 </tbody>
 </table></section>
+<section id="microsoft-edge">
+<h2>使用（以Microsoft Edge为例）<a class="headerlink" href="#microsoft-edge" title="此标题的永久链接"></a></h2>
 <section id="id2">
-<h2>使用<a class="headerlink" href="#id2" title="此标题的永久链接"></a></h2>
+<h3>准备材料<a class="headerlink" href="#id2" title="此标题的永久链接"></a></h3>
+<ul class="simple">
+<li><p>小方更新HEX文件</p></li>
+<li><p>小方</p></li>
+<li><p>Type-C数据线</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>操作<a class="headerlink" href="#id3" title="此标题的永久链接"></a></h3>
+<p>先不连接小方，打开<a class="reference external" href="https://flasher.iyoroy.cn">网页</a>，如图：
+<img alt="Flasher-01" src="../_images/Flasher-01.png" /><br />选择 <strong>点击上传</strong> 并选择更新HEX文件：
+<img alt="Flasher-02" src="../_images/Flasher-02.png" /></p>
+<p><img alt="Flasher-03" src="../_images/Flasher-03.png" /><br />点击 <strong>开始上传</strong> ，浏览器会弹出如下窗口：
+<img alt="Flasher-04" src="../_images/Flasher-04.png" /><br />此时插入小方，会发现多出了一个串口设备：
+<img alt="Flasher-05" src="../_images/Flasher-05.png" /><br />选择那个多出来的串口并确定，浏览器将自动开始刷入：
+<img alt="Flasher-06" src="../_images/Flasher-06.png" /><br /><img alt="Flasher-07" src="../_images/Flasher-07.png" /></p>
+<p>出现Successful之类的字样后便可拔下小方，更新完成</p>
+</section>
 </section>
 </section>
 
