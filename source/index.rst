@@ -11,3 +11,4 @@ iYoRoy的个人小站 - 文档
     :glob:
 
     tools/API.md
+    tools/Flasher.md
