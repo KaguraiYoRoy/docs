@@ -40,6 +40,9 @@ source_parsers = {
 }
 
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'style_nav_header_background' : '#ffb900'
+}
 html_static_path = ['_static']
 # html_logo = '_static/VertillusionNew_.png'
 
