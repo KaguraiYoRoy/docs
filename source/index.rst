@@ -10,5 +10,13 @@ iYoRoy的个人小站 - 文档
     :caption: 小工具
     :glob:
 
-    tools/API.md
     tools/Flasher.md
+
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: API
+    :glob:
+
+    api/204.md
+    api/water.md
