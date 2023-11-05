@@ -15,6 +15,14 @@ iYoRoy的个人小站 - 文档
     
 .. toctree::
     :maxdepth: 2
+    :caption: 网盘
+    :glob:
+
+    drive/rom.md
+
+
+.. toctree::
+    :maxdepth: 2
     :caption: API
     :glob:
 
