@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'iYoRoy的小站文档'
-copyright = '2019 - 2023, KaguraiYoRoy'
+copyright = '2019 - 2024, KaguraiYoRoy'
 author = 'KaguraiYoRoy'
 html_baseurl = 'https://docs.iyoroy.cn/'
 
