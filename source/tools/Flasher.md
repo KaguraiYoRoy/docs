@@ -1,6 +1,6 @@
 # Arduino Web Flasher
 ## 简介
-[跳转](https://flasher.iyoroy.cn)  
+[跳转](https://flasher.yori.moe)  
 为[小方](https://www.bilibili.com/video/BV18h4y1m7tG)摸的一个在线刷arduino nano的网站  
 基于[Andreas-Froyland/arduino-web-flasher](https://github.com/Andreas-Froyland/arduino-web-flasher)汉化修改。  
 经过测试兼容的浏览器：  
@@ -17,7 +17,7 @@
 * 小方
 * Type-C数据线
 ### 操作
-先不连接小方，打开[网页](https://flasher.iyoroy.cn)，如图：
+先不连接小方，打开[网页](https://flasher.yori.moe)，如图：
 ![Flasher-01](images/Flasher-01.png)  
 选择 **点击上传** 并选择更新HEX文件：
 ![Flasher-02](images/Flasher-02.png)  
