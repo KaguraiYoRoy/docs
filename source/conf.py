@@ -9,7 +9,7 @@
 project = 'iYoRoy的小站文档'
 copyright = '2019 - 2025, KaguraiYoRoy'
 author = 'KaguraiYoRoy'
-html_baseurl = 'https://docs.yori.moe/'
+html_baseurl = 'https://docs.iyoroy.cn/'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
